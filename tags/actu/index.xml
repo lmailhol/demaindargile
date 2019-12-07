@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>actu on Demain d&#39;Argile</title>
+    <link>http://demaindargile.com/tags/actu/</link>
+    <description>Recent content in actu on Demain d&#39;Argile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 26 Jul 2019 20:28:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://demaindargile.com/tags/actu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fin de tournage pour Demain d&#39;Argile</title>
+      <link>http://demaindargile.com/blog/fin-de-tournage-pour-demain-dargile/</link>
+      <pubDate>Fri, 26 Jul 2019 20:28:00 +0200</pubDate>
+      
+      <guid>http://demaindargile.com/blog/fin-de-tournage-pour-demain-dargile/</guid>
+      <description>La Chine et le vin Contrairement à ce que nous pourrions penser, le vin fait partie de l’histoire chinoise. Néanmoins et pendant longtemps, le produit n’est pas parvenu à jouir d’une grande notoriété locale ou internationale. Si la production décolle entre 1980 et 2000, la quantité prime généralement sur la qualité. Aujourd’hui, les ambitions changent. La consommation de vin en Chine évolue, engendrant une vraie recherche de qualité lors de la production.</description>
+    </item>
+    
+  </channel>
+</rss>
