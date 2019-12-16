@@ -1,4 +1,4 @@
-baseURL = "http://demaindargile.com"
+baseURL = "https://demaindargile.com"
 languageCode = "fr"
 title = "Demain d'Argile"
 sectionPagesMenu = "main"
