@@ -2,6 +2,6 @@
 title: Accueil
 ---
 
-![Charline et Luca](/img/demaindargile-apropos.jpg)
+![Charline et Luca](/img/home.jpg)
 
-Le film est actuellement en court de montage.
+Le projet est actuellement en montage.
