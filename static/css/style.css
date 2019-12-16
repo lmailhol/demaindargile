@@ -48,6 +48,7 @@ nav {
   position: sticky;
   position: -webkit-sticky;
   top:0;
+  z-index: 100;
 }
 
   .master-menu li {
@@ -78,6 +79,19 @@ nav {
 } */
 
 /* ################
+ * ### INDEX ###
+ */
+
+ .index {
+   text-align: center;
+ }
+
+.welcome {
+  background-color: #1C222F;
+  padding: 0.5rem 1rem 0.5rem 1rem;
+}
+
+/* ################
  * ### ARTICLES ###
  */
 
@@ -90,8 +104,8 @@ nav {
    padding: 20px 20px 20px 20px;
  }*/
 
- article a { color: #B65913; text-decoration: none; }
- article a:hover { color: white; }
+ article a { color: #B65913; text-decoration: none;}
+ article a:hover { color: #CDCDCD; text-decoration: underline; }
 
 
  .articles time {
@@ -145,13 +159,23 @@ article header.cover {
     margin-left: 0;
   }
 
-  article footer {
-    padding-top: 1rem;
-    font-family: 'Inconsolata', monospace;
-    color: #7F7F7F;
+  article footer p {
+    margin: 0;
   }
 
-  article footer a { color: #BCBCBC; }
+  article footer p a {
+    border: 1px solid #B65913;
+    background-color: transparent;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 1px 7px 1px 7px;
+  }
+
+  article footer p a:hover {
+    background-color: #B65913;
+    text-decoration: none;
+    color: white;
+  }
 
   /* # last-articles (INDEX) # */
 
@@ -173,7 +197,7 @@ table { width: 100%; }
 
 .footer {
   text-align: center;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .footer p {
@@ -183,3 +207,4 @@ table { width: 100%; }
 }
 
 .footer p a { color:#B3B3B3; }
+.footer p a:hover { color:#707070; }
