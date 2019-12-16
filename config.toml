@@ -17,15 +17,20 @@ sectionPagesMenu = "main"
     identifier = "images"
     weight = 2
   [[menu.main]]
+    name = "Équipe"
+    url = "/equipe/"
+    identifier = "equipe"
+    weight = 3
+  [[menu.main]]
     name = "Blog"
     url = "/blog/"
     identifier = "blog"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "À propos"
     url = "/a-propos/"
     identifier = "a-propos"
-    weight = 4
+    weight = 5
 
 [taxonomies]
   tag = "tags"
