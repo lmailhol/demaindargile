@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Accueil on Demain d&#39;Argile</title>
+    <link>http://demaindargile.com/</link>
+    <description>Recent content in Accueil on Demain d&#39;Argile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 07 Dec 2019 16:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://demaindargile.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fin de tournage pour Demain d&#39;Argile</title>
+      <link>http://demaindargile.com/blog/fin-de-tournage-pour-demain-dargile/</link>
+      <pubDate>Sat, 07 Dec 2019 16:00:00 +0200</pubDate>
+      
+      <guid>http://demaindargile.com/blog/fin-de-tournage-pour-demain-dargile/</guid>
+      <description>Fin de tournage pour Demain d&#39;Argile, le projet que nous portons avec Charline depuis presque un an maintenant.
+ Retour sur les semaines passées Une partie du film se déroulant dans un univers de fable et l&#39;autre dans le réel, la majorité du film s&#39;est tournée en deux temps sur une période de trois semaines. Nous avions décidé de séparer ces moments pour les traiter comme deux tournages à part entières.</description>
+    </item>
+    
+    <item>
+      <title>Mentions légales</title>
+      <link>http://demaindargile.com/mentions-legales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demaindargile.com/mentions-legales/</guid>
+      <description>Mentions légales demaindargile.com est un site conçu et édité par Luca Mailhol avec Hugo. Il est hébergé grâce à GitHub et Netlify.
+Sauf mentions contraire, tous droits réservés à l&#39;exception du contenu du blog, distribué sous licence CC-BY-NC-SA.</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>http://demaindargile.com/a-propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://demaindargile.com/a-propos/</guid>
+      <description>Demain d&#39;Argile Demain d&#39;Argile est un film écrit par Charline S. Cabaret et réalisé par Charline S. Cabaret et Luca Mailhol.
+Il met en scène : Fahima Bousba, Chris Biandonga, Anna Solomin, Marion Jadot, Salim Kissari, Johara Bentekhici, Sylvain Pajot, Xavier Inbona et Axel Ducret.
+Sa sortie est prévue en mars 2020.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Demain d&#39;Argile</title>
+    <link>http://demaindargile.com/blog/</link>
+    <description>Recent content in Blog on Demain d&#39;Argile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Sat, 07 Dec 2019 16:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://demaindargile.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fin de tournage pour Demain d&#39;Argile</title>
+      <link>http://demaindargile.com/blog/fin-de-tournage-pour-demain-dargile/</link>
+      <pubDate>Sat, 07 Dec 2019 16:00:00 +0200</pubDate>
+      
+      <guid>http://demaindargile.com/blog/fin-de-tournage-pour-demain-dargile/</guid>
+      <description>Fin de tournage pour Demain d&#39;Argile, le projet que nous portons avec Charline depuis presque un an maintenant.
+ Retour sur les semaines passées Une partie du film se déroulant dans un univers de fable et l&#39;autre dans le réel, la majorité du film s&#39;est tournée en deux temps sur une période de trois semaines. Nous avions décidé de séparer ces moments pour les traiter comme deux tournages à part entières.</description>
+    </item>
+    
+  </channel>
+</rss>

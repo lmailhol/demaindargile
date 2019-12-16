@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<header>
+  {{ partial "date.html" . }}
+  <h2>{{ .Title }}</h2>
+  <h3>Sous titre de l'article</h3>
+</header>
+<section class="content">
+  {{ .Content }}
+</section>
+<footer>
+  <p>Publié par Luca Mailhol</p>
+  <p>
+  {{ with .PrevInSection }}
+    <a class="previous" href="{{.Permalink}}">{{.Title}}</a>
+  {{ end }}
+  /
+  {{ with .NextInSection }}
+    <a class="next" href="{{.Permalink}}">{{.Title}}</a>
+  {{ end }}
+  </p>
+</footer>
+
+{{ end }}

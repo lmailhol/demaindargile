@@ -1,0 +1,31 @@
+baseURL = "http://demaindargile.com"
+languageCode = "fr"
+title = "Demain d'Argile"
+sectionPagesMenu = "main"
+
+[params]
+  dateFormat = "Jan 2, 2006"
+
+[menu]
+  [[menu.main]]
+    name = "Accueil"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Images"
+    url = "/images/"
+    identifier = "images"
+    weight = 2
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    identifier = "blog"
+    weight = 3
+  [[menu.main]]
+    name = "À propos"
+    url = "/a-propos/"
+    identifier = "a-propos"
+    weight = 4
+
+[taxonomies]
+  tag = "tags"

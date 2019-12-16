@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{ range .Pages.ByPublishDate.Reverse }}
+<article>
+  <header>
+      {{ partial "date.html" . }} par Luca Mailhol
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;&nbsp;<span class="tags">{{ partial "tags.html" . }}</span></h2>
+  </header>
+  <section class="content">
+    {{ .Summary }}&nbsp;(...)&nbsp;<a href="{{ .RelPermalink }}">Lire plus...</a>
+  </section>
+</article>
+
+{{ end }}
+
+{{ end }}
