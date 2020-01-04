@@ -1,11 +1,20 @@
 html {
   background-color: #1c1c1c;
+  height:100%;
 }
 
-body { color: #CDCDCD; }
+body {
+  color: #f5f5f5;
+  min-height: 100%;
+  position: relative;
+}
 
 body a:hover {
   color: inherit;
+}
+
+.container {
+  padding-bottom: 5rem;
 }
 
 .purple {
@@ -32,7 +41,7 @@ body a:hover {
 }
 
 .logo img {
-  width: 150px;
+  width: 300px;
   text-align: center;
   display: block;
   margin-right: auto;
@@ -45,11 +54,15 @@ body a:hover {
 nav {
   text-align: center;
   background-color: #1C222F;
+  border-bottom: 2px solid #2A364D;
   position: sticky;
   position: -webkit-sticky;
   top:0;
   z-index: 100;
+  margin-bottom: 30px;
 }
+
+.master-menu {margin: 0;}
 
   .master-menu li {
     list-style: none;
@@ -71,25 +84,16 @@ nav {
       text-decoration: none;
     }
 
-/* # mobile #
+/* # mobile # */
 
 @media (max-width: 550px) {
-  .logo, ul.master-menu, ul.categories-menu, ul.sub-categories-menu { text-align: center; }
-  .master-menu li { display: inline-block; }
-} */
+  .master-menu li { margin: auto 10px auto 10px; }
+}
 
 /* ################
  * ### INDEX ###
  */
 
- .index {
-   text-align: center;
- }
-
-.welcome {
-  background-color: #1C222F;
-  padding: 0.5rem 1rem 0.5rem 1rem;
-}
 
 /* ################
  * ### ARTICLES ###
@@ -105,17 +109,9 @@ nav {
  }*/
 
  article a { color: #B65913; text-decoration: none;}
- article a:hover { color: #CDCDCD; text-decoration: underline; }
-
-
- .articles time {
-   font-family: 'Inconsolata', monospace;
-   text-transform: uppercase;
-   color: #B3B3B3;
- }
+ article a:hover { color: #CDCDCD; }
 
 article header { border-bottom : 1px solid #4C4C4C; margin-bottom: 1rem; }
-article header h2 {font-family: spectral;}
 
 article header a {color: white; text-decoration: none;}
 article header a:hover {color: #B65913;}
@@ -149,7 +145,6 @@ article header.cover {
   article .content strong { font-weight: 500; }
 
   article .content h3 {
-    font-family: spectral;
     text-transform: uppercase;
     color: #B65913;
   }
@@ -202,8 +197,14 @@ table { width: 100%; }
   */
 
 .footer {
+  width: 100%;
+  position: absolute;
+  bottom: 2rem;
   text-align: center;
-  margin-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
 }
 
 .footer p {
