@@ -17,9 +17,9 @@ sectionPagesMenu = "main"
     identifier = "images"
     weight = 2
   [[menu.main]]
-    name = "Équipe"
-    url = "/equipe/"
-    identifier = "equipe"
+    name = "Ressources"
+    url = "/ressources/"
+    identifier = "ressources"
     weight = 3
   [[menu.main]]
     name = "Blog"

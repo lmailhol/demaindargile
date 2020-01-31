@@ -5,4 +5,6 @@ tags: ["histoire"]
 draft: true
 ---
 
-**Une partie du film se déroulant dans un univers de fable et l'autre dans le réel, la majorité du film s'est tournée en deux temps sur une période de trois semaines.** Nous avions décidé de séparer ces moments pour les traiter comme deux tournages à part entières. Cela nous a permis d'avoir quelques jours de préparation supplémentaires avant d'aborder le réel et d'effectuer un roulement d'équipe.
+> En janvier 2019, pendant la soirée de nouvel an, nous avons lancé les bases du projet...
+
+Commençons par souhaiter une bonne année à tout le monde.
