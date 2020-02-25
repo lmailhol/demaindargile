@@ -2,12 +2,8 @@
 title: Ressources
 ---
 
-### L'équipe de Demain d'Argile
+## Dossier de production
 
-**Écrit par :** Charline S. Cabaret  
-**Réalisé par :** Charline S. Cabaret et Luca Mailhol
+Ci-dessous, une petite présentation du projet en quatre planches.
 
-
-### Documents de production
-
-Bientôt en ligne...
+{{< gallery dir="img/planchesprod" />}} {{< load-photoswipe >}}

@@ -111,14 +111,10 @@ nav {
  article a { color: #B65913; text-decoration: none;}
  article a:hover { color: #CDCDCD; }
 
-article header { border-bottom : 1px solid #4C4C4C; margin-bottom: 1rem; }
+article header h2, article h2 { border-bottom : 1px solid #4C4C4C; margin-bottom: 1rem; padding-bottom: 0.7rem; }
 
 article header a {color: white; text-decoration: none;}
 article header a:hover {color: #B65913;}
-
-article header.cover {
-
-}
 
 .tags {
   font-family: roboto;
