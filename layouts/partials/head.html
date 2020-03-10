@@ -1,6 +1,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta
+  name="description"
+  content="Demain d’Argile est un film écrit par Charline S. Cabaret et réalisé par Charline S. Cabaret et Luca Mailhol.">
   {{ $skeleton := "css/skeleton.css" | absURL }}
   {{ $normalize := "css/normalize.css" | absURL }}
   {{ $style := "css/style.css" | absURL }}
@@ -10,6 +13,11 @@
   <link rel="stylesheet" href="{{ $style }}">
   {{ $title := print .Title " | " .Site.Title }}
   {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
+  {{ if .IsTranslated }}
+	 {{ range .Translations }}
+	   <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}">
+	 {{ end }}
+  {{ end }}
   <title>{{ $title }}</title>
   <link href="https://fonts.googleapis.com/css?family=Spectral|Roboto:300,400,500" rel="stylesheet">
   <style>

@@ -84,6 +84,25 @@ nav {
       text-decoration: none;
     }
 
+  .master-menu li.lang {
+  }
+
+    .master-menu li.lang a {
+      font-size: 1.1rem;
+      position: relative;
+      bottom: 0.1rem;
+      border: 1px solid #B65913;
+      background-color: transparent;
+      border-radius: 5px;
+      padding: 2px 4px 2px 4px;
+    }
+
+    .master-menu li.lang a:hover {
+      background-color: #B65913;
+      text-decoration: none;
+      color: white;
+    }
+
 /* # mobile # */
 
 @media (max-width: 550px) {

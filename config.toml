@@ -1,36 +1,75 @@
 baseURL = "https://demaindargile.com/"
-languageCode = "fr"
-title = "Demain d'Argile"
 sectionPagesMenu = "main"
+DefaultContentLanguage = "fr"
+
+[languages]
+  [languages.fr]
+    title = "Demain d'Argile"
+    weight = 1
+    languageName = "FR"
+
+      [[languages.fr.menu.main]]
+        name = "Accueil"
+        url = "/"
+        weight = 1
+      [[languages.fr.menu.main]]
+        name = "Images"
+        url = "/images/"
+        identifier = "images"
+        weight = 2
+      [[languages.fr.menu.main]]
+        name = "Ressources"
+        url = "/ressources/"
+        identifier = "ressources"
+        weight = 3
+      [[languages.fr.menu.main]]
+        name = "Blog"
+        url = "/blog/"
+        identifier = "blog"
+        weight = 4
+      [[languages.fr.menu.main]]
+        name = "À propos"
+        url = "/a-propos/"
+        identifier = "a-propos"
+        weight = 5
+
+  [languages.en]
+    title = "Words of Clay"
+    weight = 2
+    languageName = "EN"
+
+      [[languages.en.menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+      [[languages.en.menu.main]]
+        name = "Images"
+        url = "/en/images/"
+        identifier = "images"
+        weight = 2
+      [[languages.en.menu.main]]
+        name = "Ressources"
+        url = "/en/ressources/"
+        identifier = "ressources"
+        weight = 3
+      [[languages.en.menu.main]]
+        name = "Blog"
+        url = "/en/blog/"
+        identifier = "blog"
+        weight = 4
+      [[languages.en.menu.main]]
+        name = "About"
+        url = "/en/a-propos/"
+        identifier = "a-propos"
+        weight = 5
 
 [params]
   dateFormat = "Jan 2, 2006"
 
 [menu]
-  [[menu.main]]
-    name = "Accueil"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Images"
-    url = "/images/"
-    identifier = "images"
-    weight = 2
-  [[menu.main]]
-    name = "Ressources"
-    url = "/ressources/"
-    identifier = "ressources"
-    weight = 3
-  [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
-    identifier = "blog"
-    weight = 4
-  [[menu.main]]
-    name = "À propos"
-    url = "/a-propos/"
-    identifier = "a-propos"
-    weight = 5
+
+
+
 
 [taxonomies]
   tag = "tags"
