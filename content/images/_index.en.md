@@ -6,9 +6,9 @@ title: Images
 
 ## Behind the scene
 
-> [Thai-Binh Phan-Van](https://thaibinhphanvan.com/Photographies/Argile), a Dijon based photographer was with us during the reality-part of the shooting.  
-During the fable part, some photographies (the colored ones) was taken by Marion Boisard.  
-Here's a small selection of great images, thanks to these photographers.
+> [Thai-Binh Phan-Van](https://thaibinhphanvan.com/Photographies/Argile), a Dijon based photographer accompanied us during the reality-part of the shooting.  
+For the fable, the colour photographs are by Marion Boisard, those in b&w by Manu Mathias.
+Here is a small selection of these beautiful pictures and a big thank you to them.
 
 ### Reality stills
 

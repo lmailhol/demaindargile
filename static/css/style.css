@@ -175,6 +175,11 @@ article header a:hover {color: #B65913;}
     margin-left: 0;
   }
 
+  article .content hr {
+    border-top: 1px solid #4C4C4C;
+    width: 40rem;
+  }
+
   article footer p {
     margin: 0;
   }
