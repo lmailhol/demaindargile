@@ -10,8 +10,6 @@ Demain d'Argile est un film écrit par Charline S. Cabaret et réalisé par Char
 
 Il met en scène, entre autres : Marion Jadot, Salim Kissari, Johara Bentekhici, Fahima Bousba, Chris Biandonga, Anna Solomin, Sylvain Pajot, Xavier Inbona et Axel Ducret.
 
-Sa sortie est prévue en **courant avril 2020**.
-
 ### Mentions légales
 
 Le site [*demaindargile.com*](https://demaindargile.com) est conçu et édité par [Luca Mailhol](https://lucamailhol.com) avec [Hugo](https://gohugo.io). Il est hébergé grâce à [GitHub](https://github.com/) et [Netlify](https://www.netlify.com). Il utilise un script de [Li Wen Yip](https://www.liwen.id.au/heg/).
