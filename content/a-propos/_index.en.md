@@ -10,8 +10,6 @@ Words of Clay is a movie written by Charline S. Cabaret and directed by Charline
 
 Among others, it stages: Marion Jadot, Salim Kissari, Johara Bentekhici, Fahima Bousba, Chris Biandonga, Anna Solomin, Sylvain Pajot, Xavier Inbona et Axel Ducret..
 
-It will be release **during april 2020**.
-
 ### Legals
 
 The website [*demaindargile.com*](https://demaindargile.com) is build and edited by [Luca Mailhol](https://lucamailhol.com) with [Hugo](https://gohugo.io). It's hosted by [GitHub](https://github.com/) and [Netlify](https://www.netlify.com). It uses a script by [Li Wen Yip](https://www.liwen.id.au/heg/).
