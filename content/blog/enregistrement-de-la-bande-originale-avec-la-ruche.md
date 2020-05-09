@@ -25,6 +25,6 @@ La journée a été filmée et fera l'objet d'une petite vidéo que nous publier
 
 ---
 
-***[Bonus]*** Pour les amateurs, un petit bout de liste de musiques qui faisaient parti des inspirations musicales (non partagées avec le groupe, par ailleurs). Il n'y a pas que de l'ambient mais ça donne une couleur.
+***[Bonus]*** Pour les amateurs, un petit bout de liste de musiques qui faisaient parti des envies et inspirations musicales (non partagées avec le groupe, par ailleurs). Il n'y a pas que de l'ambient mais ça donne une couleur.
 
 [Kleiner Krieger - *Popol Vuh*](http://www.youtube.com/watch?v=yWzvQli1z4g) / [Bruder des Schattens - *Popol Vuh*](https://www.youtube.com/watch?v=OLiBkEhs2QE) / [Jail-House Frog - *Amon Düül II*](https://www.youtube.com/watch?v=pvamU4v1rjk) / [In the Fog I - *Tim Hecker*](https://www.youtube.com/watch?v=ShW8YyueC1s) / [The Heavenly Music Corporation I - *Robert Fripp et Brian Eno*](https://www.youtube.com/watch?v=ZwHH7XECJLg) / [Strength of Strings - *Gene Clark*](https://www.youtube.com/watch?v=dfx4vefHdKs) / [Punkrockaren - *Träd Gräs & Stenar*](https://www.youtube.com/watch?v=Qp6ldaGVjEY) / [Smoke and Mirrors - *Kikagaru Moyo*](https://www.youtube.com/watch?v=_rIBXu6jnD0) / [Arcadian Flowers - *Trummor & Orgel*](https://www.youtube.com/watch?v=gIOj9RbBvqo)...

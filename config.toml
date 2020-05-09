@@ -66,10 +66,24 @@ DefaultContentLanguage = "fr"
 [params]
   dateFormat = "Jan 2, 2006"
 
-[menu]
-
-
-
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = false
+      xhtml = false
 
 [taxonomies]
   tag = "tags"

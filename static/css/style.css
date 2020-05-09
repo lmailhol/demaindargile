@@ -4,7 +4,8 @@ html {
 }
 
 body {
-  color: #f5f5f5;
+  color: #FFFFFF;
+  opacity: 0.87;
   min-height: 100%;
   position: relative;
 }
@@ -178,6 +179,11 @@ article header a:hover {color: #B65913;}
   article .content hr {
     border-top: 1px solid #4C4C4C;
     width: 40rem;
+  }
+
+  article .footnotes {
+    font-size: 87%;
+    opacity: 0.6;
   }
 
   article footer p {
