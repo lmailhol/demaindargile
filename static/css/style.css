@@ -186,6 +186,10 @@ article header a:hover {color: #B65913;}
     opacity: 0.6;
   }
 
+    article .footnotes li {
+      margin-bottom: 2rem;
+    }
+
   article footer p {
     margin: 0;
   }
