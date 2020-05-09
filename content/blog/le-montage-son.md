@@ -1,6 +1,6 @@
 ---
 title: "Demain d'Argile en montage son"
-date: 2020-04-28T16:00:00+02:00
+date: 2020-05-09T18:00:00+02:00
 tags: ["actu","montage"]
 draft: false
 ---
