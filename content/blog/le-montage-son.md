@@ -31,7 +31,7 @@ Juste avant d'entrer en période de confinement, Charline et moi avions validé 
 
 Point positif personnel de ce confinement : j'ai eu tout le loisir de me poser pour apprendre les bases de ProTools. En bon débutant, j'ai passé beaucoup de temps à réorganiser le projet, à tâtonner, à chercher un workflow correct et j'ai recommencé plusieurs fois certaines séquences. Conjugué à la situation actuelle[^5], **en résulte un retard par rapport au planning de post-production que nous nous étions donnés avec Charline.**
 
-Maintenant que j'ai le teint bien blanc, je commence à voir le bout de cette étape et je suis ravi d'avoir enfin pris le temps de creuser plus loin dans ce sens. Je ne suis pas professionnel : j'ai sans doute commis des bourdes et des omissions... Mais je suis assez satisfait du travail accomplis et **je pense que tout ce temps passé ne va que dans le sens du film.** C'est bien d'avoir une intention de travail, c'est encore plus gratifiant de pouvoir prendre le temps de la matérialiser au mieux !
+Maintenant que j'ai le teint bien blanc, je commence à voir le bout de cette étape et je suis ravi d'avoir enfin pris le temps de creuser plus loin dans ce sens. Je ne suis pas professionnel : j'ai sans doute commis des bourdes et des omissions... Mais je suis assez satisfait du travail accomplis et **je pense que toutes ces heures passées ne vont que dans le sens du film.** C'est bien d'avoir une intention de travail, c'est encore plus gratifiant de pouvoir prendre le temps de la matérialiser au mieux !
 
 Encore quelques jours de boulot et **il ne restera "plus" qu'à écouter tout ça avec autre choses que ma paire d'enceintes achetées il y a 7 ans afin de terminer dans de bonnes conditions.**
 
