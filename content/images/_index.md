@@ -4,6 +4,7 @@ title: Images
 
 ![Still 1](/img/stills/demaindargile-001.jpg)
 
+
 ## Photos de plateau
 
 > [Thai-Binh Phan-Van](https://thaibinhphanvan.com/Photographies/Argile), photographe de Dijon nous a accompagné sur toute la partie du réel.  
